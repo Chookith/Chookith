@@ -1,6 +1,11 @@
-- 👋 howdy I'm chookith
-- kinda new to this ...please Forgive me for anything stupid i do 
-- 🌱 I’m currently learning ...
--
+# I am Chookith
+Hello lovely person who's stubbled upon my Github account <br>
+I'm a Front End Developer <br>
+   well trying to become one
+## As of Now
+- I have made a few little themes for VSC
+- I am currently in the midst of making my portfolio
+<br>
 
-chookith is my socials if you want to get in touch
+
+Chookith is my socials for everything if you would like to get in touch
